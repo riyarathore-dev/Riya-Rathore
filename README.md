@@ -4,7 +4,7 @@
 
 🎓 B.Tech Computer Science Graduate
 
-💻 Passionate about building responsive web applications using React.js.
+💻 Passionate about building responsive web applications using React.js
 
 🌱 Currently learning
 - Advanced React
@@ -33,14 +33,6 @@
 ### Loan Approval Prediction System
 - React.js
 - Flask
-- Machine Learning
-- Scikit-Learn
-
-Features:
-- Loan eligibility prediction
-- Interactive UI
-- ML-powered backend
-- Responsive design
 
 ---
 
